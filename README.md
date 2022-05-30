@@ -16,13 +16,13 @@ The analysis was performed by creating a pivot table and chart to determine the 
 
 Campaign launch date's effect on outcome was analyzed by isolating the year each campaign was created. A pivot table was created to show the outcome based on month the campaign started. This data was filtered by parent category and year the campaign started in. Filtering by Theater productions and all years available, the following chart was created.
 
-[Theater_Outcomes_vs_Launch.png](https://github.com/mcwatts88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+[Theater_Outcomes_vs_Launch.png](https://github.com/mcwatts88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 
 The campaign's goal's effect on outcome was determined by using the countifs function. The outcome, subcategory and goal range were all tabulated by number and percentage of total. The percentage of successful, failed and canceled campaigns in the goal range were charted below.
 
-[Outcomes_vs_Goals.png](https://github.com/mcwatts88/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+[Outcomes_vs_Goals.png](https://github.com/mcwatts88/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
