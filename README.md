@@ -44,4 +44,4 @@ There is more data for lower valued campaigns, so meaningful predictions for hig
 
 - What are some other possible tables and/or graphs that we could create?
 
-There was no analysis done on whether the staff pick or spotlight had any effect on the outcome. Determining this via a pivot table could indicate whether campaign visibility had an effect on the outcome.
+There was no analysis done on whether the staff pick or spotlight had any effect on the outcome. Determining this via a pivot table could indicate whether campaign visibility had an effect on the outcome. 
